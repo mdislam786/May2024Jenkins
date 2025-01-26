@@ -1,0 +1,15 @@
+2025-01-26 10:42:31 [main] INFO  test.LoginPageTest - This is loginTest()!
+2025-01-26 10:42:54 [main] INFO  test.LoginPageTest - This is pageTitleTest()!
+2025-01-26 11:04:15 [main] INFO  test.LoginPageTest - This is beforeAssert!
+2025-01-26 11:08:13 [main] INFO  test.LoginPageTest - This is beforeAssert!
+2025-01-26 11:08:13 [main] INFO  test.LoginPageTest - This is afterAssert!
+2025-01-26 11:12:28 [main] INFO  test.LoginPageTest - This is beforeAssert!
+2025-01-26 11:12:28 [main] INFO  test.LoginPageTest - This is afterAssert!
+2025-01-26 11:15:13 [main] INFO  test.LoginPageTest - This is beforeAssert!
+2025-01-26 11:15:13 [main] INFO  test.LoginPageTest - This is afterAssert!
+2025-01-26 11:17:28 [main] INFO  test.LoginPageTest - This is beforeAssert!
+2025-01-26 11:17:28 [main] INFO  test.LoginPageTest - This is afterAssert!
+2025-01-26 11:19:48 [main] INFO  test.LoginPageTest - This is beforeAssert!
+2025-01-26 11:19:48 [main] INFO  test.LoginPageTest - This is afterAssert!
+2025-01-26 11:20:10 [main] INFO  test.LoginPageTest - This is beforeAssert!
+2025-01-26 11:20:10 [main] INFO  test.LoginPageTest - This is afterAssert!
