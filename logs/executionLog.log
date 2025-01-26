@@ -13,3 +13,7 @@
 2025-01-26 11:19:48 [main] INFO  test.LoginPageTest - This is afterAssert!
 2025-01-26 11:20:10 [main] INFO  test.LoginPageTest - This is beforeAssert!
 2025-01-26 11:20:10 [main] INFO  test.LoginPageTest - This is afterAssert!
+2025-01-26 11:25:24 [main] INFO  test.LoginPageTest - This is beforeAssert!
+2025-01-26 11:25:24 [main] INFO  test.LoginPageTest - This is afterAssert!
+2025-01-26 11:25:47 [main] INFO  test.LoginPageTest - This is beforeAssert!
+2025-01-26 11:25:47 [main] INFO  test.LoginPageTest - This is afterAssert!

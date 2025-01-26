@@ -31,7 +31,7 @@ public class LoginPageTest extends TestBase {
 		loginPageObj.enterUserName(ConfigReader.getProperty("username"));			
 		loginPageObj.enterPassword(ConfigReader.getProperty("password"));
 		loginPageObj.clickSignInButton();
-		String expectedTitle = "Codefios2";
+		String expectedTitle = "Codefios";
 		String actualTitle = loginPageObj.getPageTitle();
 		takeScreenshot(driver);
 		logger.info("This is beforeAssert!");
